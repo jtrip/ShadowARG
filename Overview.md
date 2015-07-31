@@ -1,8 +1,8 @@
 # Overview
 
-## Gadgets (Clients)
+## Gear (Clients)
 _host users / character sheets, connect to services_
-* Comlinks (Smartphones)
+* Comlinks (Smartphones, Tablets)
 * Decks (BBB, CHIP, Arduino, Laptops)
 * Armor/Cyberwear (Wearable)
 * gun with sensors
@@ -25,7 +25,10 @@ _host services for character sheet interaction, communication_
 * Nets
     * Story
     * Open
+    * Roving
+    * 
+
 ### Penguicon
-QR codes for panels  
-Interactive Robot  
+* QR codes for panels  
+* Interactive Robot  
 *
