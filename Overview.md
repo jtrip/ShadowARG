@@ -24,6 +24,5 @@ _host services for character sheet interaction, communication_
 * Nets
     * Story
     * Open
-  * QR codes for panels
-  * Interactive Robot
-  * decentralized network or hotel network?
+* QR codes for panels
+* Interactive Robot
