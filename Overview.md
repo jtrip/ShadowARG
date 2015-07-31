@@ -17,6 +17,7 @@ _host services for character sheet interaction, communication_
     * small troops
 * Local (LAN + Host(s))
 * Global (Slack, other internet based servers)
+*
 
 ---
 
@@ -26,3 +27,4 @@ _host services for character sheet interaction, communication_
     * Open
 * QR codes for panels
 * Interactive Robot
+*
