@@ -26,6 +26,6 @@ _host services for character sheet interaction, communication_
     * Story
     * Open
 ### Penguicon
-* QR codes for panels
-* Interactive Robot
+QR codes for panels  
+Interactive Robot  
 *
