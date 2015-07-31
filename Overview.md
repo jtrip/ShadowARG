@@ -12,11 +12,11 @@ _host users / character sheets, connect to services_
 
 ## Nets (Servers)  
 _host services for character sheet interaction, communication_
-  * Public vs Private
+* Public vs Private
       - i3
       - small troops
-  * Local (LAN + Host(s))
-  * Global (Slack, other internet based servers)
+* Local (LAN + Host(s))
+* Global (Slack, other internet based servers)
 
 ---
 
