@@ -1,6 +1,6 @@
 # Overview
 
-## Gadgets (Clients)  
+## Gadgets (Clients)
 _host users / character sheets, connect to services_
 * Comlinks (Smartphones)
 * Decks (BBB, CHIP, Arduino, Laptops)
@@ -10,7 +10,7 @@ _host users / character sheets, connect to services_
 
 ---
 
-## Nets (Servers)  
+## Nets (Servers)
 _host services for character sheet interaction, communication_
 * Public vs Private
     * i3
@@ -21,7 +21,7 @@ _host services for character sheet interaction, communication_
 
 ---
 
-## Penguicon
+## Events
 * Nets
     * Story
     * Open
