@@ -25,6 +25,7 @@ _host services for character sheet interaction, communication_
 * Nets
     * Story
     * Open
+### Penguicon
 * QR codes for panels
 * Interactive Robot
 *
