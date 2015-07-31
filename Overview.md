@@ -3,7 +3,7 @@
 ## Gadgets (Clients)  
 _host users / character sheets, connect to services_
   * Comlinks (Smartphones)
-  * Decks (BBB, CHIP, RPi, Laptops)
+  * Decks (BBB, CHIP, Arduino, Laptops)
   * Armor/Cyberwear (Wearable)
   * gun with motion sensor
   * 
