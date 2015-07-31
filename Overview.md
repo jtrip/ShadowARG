@@ -33,6 +33,12 @@ _host services for character sheet interaction, communication_
 
 ### Penguicon
 
+* Interactive Robot
+  * Quests 
+* Quests
+  * scheduled
+  * ongoing
 * QR codes for panels  
-* Interactive Robot  
-* 
+  * Trophies
+
+
